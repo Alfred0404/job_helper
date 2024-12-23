@@ -1,0 +1,58 @@
+Equancy est un cabinet de conseil international, basé à Paris et Dubaï, spécialisé dans la transformation data des entreprises.
+
+Nous planifions, concevons et mettons en œuvre des solutions Big Data, Data Science et Intelligence Artificielle pour nos clients. Nos projets vont de la mise en œuvre d’infrastructures spécialisées dans le traitement de la donnée de nos clients, de lacs de données jusqu’au développement de systèmes opérationnels intégrant des algorithmes de machine learning ou de deep learning. Nous sommes experts dans l’industrialisation de ces plates-formes, en appliquant les principes du devops à nos infrastructures data.
+
+Nos clients sont de grands groupes français et internationaux (LVMH, Picard, Chanel VINCI, Volkswagen). Ils nous font confiance autant dans l’accompagnement au cadrage de leurs besoins que dans la réalisation des solutions data innovantes
+
+
+Afin d’accompagner la croissance de son activité, Equancy recherche un Stagiaire Data Engineer Junior (H/F) pour intégrer sa Practice data à partir du mois de janvier 2025 et plus.
+
+
+Dans ce cadre :
+
+    Vous évoluez dans des équipes fonctionnant en méthode Agile;
+    Vous réalisez les fonctions de collecte, de stockage et de traitement des données;
+    Vous automatisez des tâches de traitement et mettrez en place les outils permettant d'assurer leur supervision dans une vision industrielle;
+    Vous documentez vos travaux et les processus de mise en production;
+    Vous accompagnez vos collègues dans l'usage et le transfert de vos travaux;
+    Vous participez aux activités de veille technologique dans le domaine Big Data (recherches, expérimentations) ;
+    Vous utilisez les outils DevOps déployés sur nos chaînes d'intégration continue (Jenkins, Docker, Git).
+
+
+Profil recherché:
+
+    Vous êtes en Ecole d'ingénieur en Informatique, Système d'information, Master spécialisé Data;
+    Capacité à travailler en équipe (tests unitaires, revue de code, partage de code, sprints);
+    Maitrise de Python (connaissance d’autres langages de scripting également appréciée);
+    A l’aise (ou ayant envie de le devenir) dans des environnements cloud (Google Cloud Platform, Amazon Web Services, MS Azure);
+    Bonnes notions en bases de données relationnelles (MySql, BigQuery) et non-relationnelles (MongoDB, ElasticSearch, Redis);
+    Réactif, avec le sens du service, vous justifiez de bonnes capacités d'écoute, d'un bon relationnel et d’une bonne gestion du stress;
+    Curieux, autonome et proactif;
+    Intérêt pour le conseil, les systèmes d'informations et le secteur de l'automobile, le tourisme, la grande distribution et la finance.
+
+
+Equancy c'est aussi :
+
+    Un cadre de travail :
+
+· Superbes locaux au cœur de Paris : Espace WeWork Jules Lefebvre, à coté de Saint Lazare, au sein d’un bâtiment historique, avec de grands espaces et vue panoramique sur tout Paris;
+
+· Equilibre vie pro / vie perso;
+
+· Une politique de télétravail de
+
+deux jours par semaine;
+
+· Équipement pour travailler en remote + participation aux frais du télétravail (allocation mensuelle);
+
+· Engagement environnemental;
+
+· Des activités sportives proposées
+
+· Une conciergerie proposée par We Work.
+
+    Environnement de travail stimulant, proximité forte avec les directeurs et les associés ;
+    Équipe dynamique, passionnée et internationale.
+
+
+L’aventure vous tente ? Écrivez-nous !

@@ -1,0 +1,48 @@
+Contact:
+  phone: +33 7 82 91 91 49
+  email: alfreddevulpian04@gmail.com
+  location: Maisons-Laffitte, France
+  github: https://github.com/Alfred0404
+  linkedin: https://linkedin.com/in/alfred-de-vulpian
+  portfolio: alfreddevulpian.verrcel.app
+
+Skills:
+  Python, SQL, GCP
+  Git
+  Vue, Tailwind, PHP
+  Data Structures
+  Travail en equipe
+
+Education:
+  ECE - Engineering school (2022 - 2027) !important
+    Préparation d'un diplome d'ingenieur
+    competences theoriques: structures de donnees, mathématiques, algorithmie
+    competences techniques: Python, C, Git, HTML/CSS/JS, SQL
+
+  Baruch College - New York (2024) !important
+    Programme computer science pendant 1 semestre
+    competences theoriques: machine learning, deep learning
+    competences techniques: Python, Git
+
+Experiences:
+  Havas Data Business Intelligence (Jan - Fev 2024) !important
+    Stagiaire data engineer
+    Utilisation de Python pour extraire, de transformer et acheminer les données du site web des clients vers  la base de données BigQuery de l'entreprise, permettant aux data scientists et aux analystes de travailler avec des données exploitables.
+
+  NGA - Network Gaming Association (ECE) (depuis 2023)
+    Vice president du pole creation
+    Direction du pôle création, animation des réunions hebdomadaires sur les avancés des projets en cours.
+    Collaboration avec les vice-présidents des autres pôles pour organiser des événements autour des jeux vidéo sur l'ensemble des campus.
+
+Projets:
+  Smart fridge: !important
+    Baruch College, Intelligent Robotics - 2024
+    Utilisation de Python avec Yolov11 pour développer un réfrigérateur qui suit son inventaire, fournit des suggestions de recettes au client et les affiche sur une interface utilisateur.
+
+  AI Genetic Racer: !important
+    Baruch College, Artificial Intelligence - 2024
+    Utilisation de Python pour créer et entrainer des générations d’agents sur différents circuits d’un jeu de course.
+
+  Trading Bot:
+    Projet personnel - 2024
+    Utilisation de Python pour visualiser, analyser, tester et automatiser le trading d'actions et de cryptomonnaies a l'aide d'APIs de différentes plateformes d'investissement.

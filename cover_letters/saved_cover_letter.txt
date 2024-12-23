@@ -1,0 +1,19 @@
+Madame, Monsieur,
+
+Actuellement étudiant en école d'ingénieur à l'ECE, je suis passionné par l'intelligence artificielle et j'aspire à me spécialiser dans ce domaine. Mon parcours académique et professionnel m'a permis de développer des compétences solides en data engineering, et je suis convaincu que mon profil correspond parfaitement à vos attentes pour le poste de Stagiaire Data Engineer Junior.
+
+Mon parcours académique est marqué par deux expériences clés. Tout d'abord, je suis actuellement en formation d'ingénieur à l'ECE, où j'ai acquis des compétences théoriques en structures de données, mathématiques et algorithmie, ainsi que des compétences techniques en Python, C, Git, HTML/CSS/JS et SQL. En parallèle, j'ai également suivi un programme de computer science à Baruch College à New York, où j'ai pu approfondir mes connaissances en machine learning et deep learning.
+
+Sur le plan professionnel, mon expérience la plus significative a été mon stage chez Havas Data Business Intelligence, où j'ai travaillé en tant que stagiaire data engineer. J'ai utilisé Python pour extraire, transformer et acheminer les données du site web des clients vers la base de données BigQuery de l'entreprise. Cette expérience m'a permis de collaborer étroitement avec des data scientists et des analystes pour fournir des données exploitables.
+
+Mes projets personnels et professionnels ont également joué un rôle crucial dans ma compréhension de l'intelligence artificielle. Parmi ces projets, le développement d'un réfrigérateur intelligent à l'aide de Yolov11 pour suivre son inventaire et fournir des suggestions de recettes a été particulièrement enrichissant. De même, la création et l'entraînement d'agents de course utilisant des algorithmes génétiques m'ont permis de mieux comprendre les applications de l'IA dans le domaine des jeux vidéo. Enfin, mon projet de trading bot m'a permis de visualiser, analyser, tester et automatiser le trading d'actions et de cryptomonnaies, renforçant ainsi mes compétences en Python.
+
+Je suis convaincu que mon profil et mes compétences correspondent parfaitement à vos attentes pour le poste de Stagiaire Data Engineer Junior. Je suis particulièrement motivé par l'opportunité de travailler dans un environnement stimulant et dynamique, et je suis prêt à m'engager pleinement dans les projets de transformation data de vos clients.
+
+Je vous remercie par avance pour l'attention que vous porterez à ma candidature et je reste à votre disposition pour toute information complémentaire ou pour un entretien à votre convenance.
+
+Veuillez trouver ci-dessous les liens vers mon profil GitHub (https://github.com/Alfred0404), mon profil LinkedIn (https://linkedin.com/in/alfred-de-vulpian) et mon portfolio (alfreddevulpian.vercel.app).
+
+Cordialement,
+
+alfred.devulpian@edu.ece.fr

@@ -1,0 +1,20 @@
+Madame, Monsieur,
+
+Actuellement en 3ème année d’études d’ingénieur à l’ECE Paris, je me permet de postuler pour le poste de stagiaire en Machine Learning. Portant un fort intérêt pour l’intelligence artificielle, je suis déterminé à rejoindre votre entreprise.
+
+Au cours de mon parcours académique au sein de l’ECE Paris, j’ai su acquérir de solides compétences en Python, que j’ai pu mettre en pratique dans différents projets scolaires, personnels, ou encore lors de stages.
+
+Fort de mon expérience au sein de Havas Data Business Intelligence, j’ai eu l’opportunité de mettre a profit mes competences en Python en développant et en déployant une pipeline Extract, Transform, Load du site d’un client vers la base de données Google BigQuery de l’entreprise. Cette opportunité m’a permit d’approfondir mes compétences techniques en Python, CI/CD.
+
+Curieux et motivé, je me forme en autodidacte en parallèle des cours, en développant de nombreux projets personnels, disponibles sur mon Github.
+
+Passionné par l’intelligence artificielle et désireux de poursuivre mes études dans ce domaine, je suis à la recherche d’opportunités pour acquérir une expérience pratique et enrichissante en entreprise.
+Mon objectif est de contribuer activement aux projets innovants de l'entreprise tout en développant mes compétences et ma compréhension des enjeux du secteur.
+
+Je reste à votre disposition pour toute information complémentaire et vous remercie par avance de l’attention portée à ma candidature.
+
+Merci d'avance,
+
+Cordialement,
+
+Alfred de Vulpian
