@@ -12,7 +12,7 @@ def generate_cover_letter(job_offer="", resume="", prompt=""):
 
     try:
 
-        prompt = f"""
+        prompt = prompt if prompt != "" else f"""
         Tu es un expert en rédaction de lettre de motivation.
         Je te fournis un offre d'emploi et des informations personnelles.
         Tu dois utiliser ces informations pour composer une lettre de motivation en francais.
