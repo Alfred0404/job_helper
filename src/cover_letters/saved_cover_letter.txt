@@ -1,0 +1,19 @@
+Madame, Monsieur,
+
+Actuellement étudiant en école d'ingénieur à l'ECE Paris, je suis passionné par l'intelligence artificielle et je souhaite me spécialiser dans ce domaine. Mon parcours académique et mes expériences professionnelles m'ont permis de développer des compétences techniques solides ainsi qu'une compréhension approfondie des enjeux liés à la transformation data des entreprises. Je suis particulièrement intéressé par le poste de Stagiaire Data Engineer Junior que vous proposez, et je suis convaincu que mon profil correspond parfaitement à vos attentes.
+
+Mon parcours académique m'a permis d'acquérir des compétences théoriques et techniques essentielles pour le poste. En effet, je suis actuellement en troisième année d'école d'ingénieur à l'ECE Paris, où j'ai acquis des connaissances solides en structures de données, mathématiques et algorithmie. J'ai également eu l'opportunité de suivre un programme de computer science au Baruch College de New York, où j'ai approfondi mes compétences en machine learning et deep learning. Ces expériences m'ont permis de développer une maîtrise avancée de Python, Git et des bases de données SQL.
+
+Sur le plan professionnel, j'ai eu l'occasion de mettre en pratique mes compétences techniques lors de mon stage chez Havas Data Business Intelligence. En tant que stagiaire data engineer, j'ai utilisé Python pour extraire, transformer et acheminer les données du site web des clients vers la base de données BigQuery de l'entreprise. Cette expérience m'a permis de comprendre les enjeux liés à la collecte, au stockage et au traitement des données, ainsi que l'importance de l'automatisation des tâches de traitement. J'ai également eu l'opportunité de travailler en équipe, en utilisant des méthodes agiles et en participant à des revues de code et des sprints.
+
+Mes projets personnels et professionnels m'ont également permis de monter en compétences dans le domaine de l'intelligence artificielle. Par exemple, lors de mon séjour au Baruch College, j'ai développé un réfrigérateur intelligent capable de suivre son inventaire et de fournir des suggestions de recettes au client. Ce projet m'a permis de mettre en pratique mes compétences en Python et en machine learning. De plus, j'ai créé et entraîné des générations d’agents sur différents circuits d’un jeu de course, ce qui m'a permis de mieux comprendre les algorithmes de machine learning et de deep learning. Enfin, j'ai développé un bot de trading qui visualise, analyse, teste et automatise le trading d'actions et de cryptomonnaies, en utilisant des APIs de différentes plateformes d'investissement.
+
+Je suis convaincu que mon profil correspond parfaitement aux attentes de votre cabinet de conseil. Je suis réactif, autonome et proactif, avec une bonne capacité d'écoute et un bon relationnel. Je suis également très intéressé par le conseil, les systèmes d'information et les secteurs de l'automobile, du tourisme, de la grande distribution et de la finance. Je suis prêt à m'investir pleinement dans votre équipe et à contribuer à la réalisation de vos projets data innovants.
+
+Je vous remercie par avance pour l'attention que vous porterez à ma candidature. Vous pouvez consulter mon profil GitHub [Alfred0404](https://github.com/Alfred0404), mon profil LinkedIn [alfred-de-vulpian](https://linkedin.com/in/alfred-de-vulpian) et mon portfolio [alfreddevulpian.vercel.app](alfreddevulpian.vercel.app) pour plus d'informations.
+
+Je reste à votre disposition pour toute information complémentaire et pour un éventuel entretien.
+
+Cordialement,
+
+alfred.devulpian@edu.ece.fr

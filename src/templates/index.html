@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Job helper</title>
+  </head>
+  <body>
+    <h1>Job application helper</h1>
+    <form id="job-form" action="/submit" method="post">
+      <textarea
+        name="cv-content"
+        placeholder="Please enter the content of your resume here"
+      ></textarea>
+      <textarea
+        name="job-offer"
+        placeholder="Please enter the job offer here"
+      ></textarea>
+      <button type="submit">Generate cover letter</button>
+    </form>
+    <div class="result">
+      <h2>Generated Cover Letter</h2>
+      <p id="coverLetter">{{ cover_letter | safe }}</p>
+      <h2>Resume Recommendations</h2>
+      <p id="resume-recommendations"></p>
+    </div>
+    <script></script>
+  </body>
+</html>
