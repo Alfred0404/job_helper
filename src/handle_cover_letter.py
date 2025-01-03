@@ -12,7 +12,10 @@ def generate_cover_letter(job_offer="", resume="", prompt=""):
 
     try:
 
-        prompt = prompt if prompt != "" else f"""
+        prompt = (
+            prompt
+            if prompt != ""
+            else f"""
         Tu es un expert en rédaction de lettre de motivation.
         Je te fournis un offre d'emploi et des informations personnelles.
         Tu dois utiliser ces informations pour composer une lettre de motivation en francais.
@@ -24,7 +27,7 @@ def generate_cover_letter(job_offer="", resume="", prompt=""):
         - Informations personnelles:\n{resume}
 
         En t'aidant de ces informations, compose une lettre de motivation en francais, ave des paragraphes distincts et clairs.
-        Inclus les liens vers mon proifl github (Alfred0404), linkedin (alfred-de-vulpian) et mon portfolio (alfreddevulpian.vercel.app) a la fin de la lettre de motivation.
+        Inclus les liens a la fin de la lettre de motivation.
 
         N'indique pas mon numero de telephone.
         N'indique pas mon nom, adresse, code postal ou ville et ne met pas de date.
@@ -33,6 +36,7 @@ def generate_cover_letter(job_offer="", resume="", prompt=""):
         ne mets pas d'objet non plus.
 
         """
+        )
 
         print("[get_cover_letter]\tGenerating cover letter...")
         api_key = os.environ["MISTRAL_API_KEY"]

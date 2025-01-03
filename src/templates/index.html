@@ -8,21 +8,28 @@
   </head>
   <body>
     <h1>Job application helper</h1>
-    <form id="job-form" action="/submit" method="post">
-      <textarea
-        name="cv-content"
-        placeholder="Please enter the content of your resume here"
-      ></textarea>
-      <textarea
-        name="job-offer"
-        placeholder="Please enter the job offer here"
-      ></textarea>
-      <button type="submit">Generate cover letter</button>
-    </form>
-    <div class="result">
-      <h2>Generated Cover Letter</h2>
-      <p id="coverLetter">{{ cover_letter | safe }}</p>
+    <div class="container">
+      <form id="job-form" action="/submit" method="post">
+        <textarea
+          name="cv-content"
+          placeholder="Please enter the content of your resume here"
+        ></textarea>
+        <textarea
+          name="job-offer"
+          placeholder="Please enter the job offer here"
+        ></textarea>
+        <button type="submit">Generate cover letter</button>
+      </form>
+      <form class="result" id="save-form" action="/save" method="post">
+        <textarea
+          name="cover-letter"
+          id="coverLetter"
+          placeholder="Cover letter"
+        >
+{{ cover_letter | safe }}</textarea
+        >
+        <button type="submit">Save cover letter</button>
+      </form>
     </div>
-    <script></script>
   </body>
 </html>
